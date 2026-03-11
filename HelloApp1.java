@@ -1,5 +1,5 @@
 
-public class HelloApp {
+public class HelloApp1{
 
     public static void main(String[] args) {
         String name = "Aksh";
@@ -7,3 +7,4 @@ public class HelloApp {
     }
 
 }
+
